@@ -28,6 +28,6 @@ To run the N-Queens Visualizer, follow these steps:
 Contributions to the N-Queens Visualizer are welcome! If you have any ideas, suggestions, or bug reports, feel free to open an issue or submit a pull request.
 
 ## Preview
-Here are some screenshots showcasing the N-Queens Visualizer:
+Here is a screenshot showcasing the N-Queens Visualizer:
 <img width="897" alt="Screenshot 2023-06-24 041041" src="https://github.com/shashwat39/queensolve/assets/110004769/8b187008-6418-4371-ab80-c164784b7392">
 
